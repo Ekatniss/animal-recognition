@@ -6,7 +6,7 @@ This project can recognize 38 different animals. You just need to give it an ima
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+This project uses a retrained Resnet-18 model trained on images of 38 different wild animals. The program takes an input image and feeds it to the retrained model; the model then uses its training to deduce what animal it believes to be in the image and the result is printed out.
 
 ## Running this project
 

@@ -1,8 +1,8 @@
-# Project Name
+# Animal Recognition
 
  Add short description of project here > 
-
-![add image descrition here](direct image link here)
+This project can recognize 38 different animals. You just need to give it an image and it will recognize what animal is in the image.
+![Image of a rabbit](https://upload.wikimedia.org/wikipedia/commons/d/df/Eastern_Cottontail.JPG)
 
 ## The Algorithm
 

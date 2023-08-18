@@ -11,6 +11,10 @@ This project uses a retrained Resnet-18 model trained on images of 38 different 
 ## Running this project
 
 1. ssh into your jetson-nano and make sure you have jetson-inference installed
-2. TBD
+2. download this git repositoy and put it into your jetson-nano (do not put it under the jetson-inference folder)
+3. go into the terminal and cd into the folder containing the files from the git repository
+4. Run this command: imagenet.py --model=resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=labels.txt $IMAGE_NAME.jpg output.jpg
+5. replace the $IMAGE_NAME with the file name of the image
+6. you can also replace the output.jpg with your desired name of the output image
 
 [View a video explanation here](video link)

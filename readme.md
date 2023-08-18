@@ -10,7 +10,7 @@ This project uses a retrained Resnet-18 model trained on images of 38 different 
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+1. ssh into your jetson-nano and make sure you have jetson-inference installed
+2. TBD
 
 [View a video explanation here](video link)

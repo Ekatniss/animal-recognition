@@ -17,4 +17,7 @@ This project uses a retrained Resnet-18 model trained on images of 38 different 
 5. replace the $IMAGE_NAME with the file name of the image
 6. you can also replace the output.jpg with your desired name of the output image
 
-[View a video explanation here](video link)
+## Future Work
+At the moment the model is not very accurate most of the time so I would like to add more data and train it some more. I woudld also eventually like to add a live camera so I could use the model practically
+
+[View a video explanation here]([video link](https://youtu.be/varbBgsf6dc))
